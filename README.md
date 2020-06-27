@@ -1,0 +1,1 @@
+This is a project focusing upon utilizing concepts of HTML and CSS to build a webpage similar to a popular web browser.
